@@ -10,7 +10,7 @@ It includes an Ambient Occlusion baked into the lightmap, allowing for a much mo
 Just drop `vrad_dll.dll` into the BIN folder of your Portal 2 installation and you're done! Ready to go.
 
 
-**Download the latest release [here](https://github.com/gdianaty/grahams-compiler-tools/releases)**
+**Download the latest release [here](https://github.com/gdianaty/grahams-compiler-tools/releases).**
 
 
 ## Ambient Occlusion
