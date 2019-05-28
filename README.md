@@ -1,5 +1,7 @@
 
-# Graham's Compiler Tools for Portal 2
+# Bumrad for Portal 2
+A custom light compiler for Portal 2.
+
 > I'm working on a better website, it'll be out soon I promise! This one is temporary!
 
 I love to see things created using the Source Engine. Because the developers of the engine abandoned it long ago, I only get to see amazing things created by the community. A personal commitment of mine is to help the community create amazing things. Portal 2 is often under-loved and under-appreciated by us Source Engine licensees. I like to try and help when I can.
