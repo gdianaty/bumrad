@@ -11,6 +11,7 @@ Just drop `vrad_dll.dll` into the BIN folder of your Portal 2 installation and y
 
 
 **Download the latest release [here](https://github.com/gdianaty/grahams-compiler-tools/releases).**
+
 **Report your problems [here](https://github.com/gdianaty/grahams-compiler-tools/issues). Not in my DMs. PLEASE.**
 
 ## Ambient Occlusion
