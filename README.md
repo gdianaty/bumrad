@@ -17,7 +17,8 @@ Provides the illusion of depth in an environment.
 - **Pros:**
 	 - Increases visual fidelity in all environments.
 	 - Very similar to Screen Space Ambient Occlusion, but with no performance overhead.
-
+- **Cons:**
+         - Map compiling now takes roughly twice as long.
 AO is enabled by default, you may disable it with `-no_AO`.
 
 ## Softening
