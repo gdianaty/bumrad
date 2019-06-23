@@ -19,7 +19,8 @@ Provides the illusion of depth in an environment.
 	 - Very similar to Screen Space Ambient Occlusion, but with no performance overhead.
 - **Cons:**
          - Map compiling now takes roughly twice as long.
-AO is enabled by default, you may disable it with `-no_AO`.
+	 
+Ambient Occlusion is disabled by default, and may be enabled by passing `-bumrad_ao`.
 
 ## Softening
 Provides a softer lighting look instead of a harsher look.
@@ -29,4 +30,4 @@ Provides a softer lighting look instead of a harsher look.
 	 - Increases compile time by a small amount.
 	 - Looks silly on brighter environments, some maps do and don't work with it. I recommend experimenting.
 
-Softening is disabled by default, you may enable it with `-soften`.
+Light Softening is disabled by default, and may be enabled by passing `-bumrad_soften`.
