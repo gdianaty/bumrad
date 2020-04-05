@@ -1,4 +1,5 @@
 
+
 # [Bumrad for Portal 2](http://bumrad.gmdianaty.com/)
 A custom light compiler for Portal 2.
 
@@ -13,11 +14,11 @@ Just drop `vrad_dll.dll` into the BIN folder of your Portal 2 installation and y
 ## Ambient Occlusion
 Provides the illusion of depth in an environment.
 - **Pros:**
-	 - Increases visual fidelity in all environments.
-	 - Very similar to Screen Space Ambient Occlusion, but with no performance overhead.
+	- Increases visual fidelity in all environments.
+	- Very similar to Screen Space Ambient Occlusion, but with no performance overhead.
 - **Cons:**
-         - Map compiling now takes roughly twice as long.
-	 - Can add strange artifacting to your geometry.
+	- Map compiling now takes roughly twice as long.
+	- Can add strange artifacting to your geometry.
 	 
 Ambient Occlusion is disabled by default, and may be enabled by passing `-bumrad_ao`.
 
